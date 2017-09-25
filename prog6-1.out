@@ -1,0 +1,48 @@
+Script started on Mon 11 Apr 2016 12:20:06 AM CDT
+]0;z1791612@tiger: ~/631/assignment6z1791612@tiger:~/631/assignment6$ make execute-one N=6logout[Kmake execute-one N=6logout[Kclient.exegcc -o client.exe  prog6ftp.o prog6cli.o util6ccli.o wrap6c.o inOut.o[A]0;z1791612@tiger: ~/631/assignment6z1791612@tiger:~/631/assignment6$ client.exe[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Plogoutmake execute-one N=6
+make -f /home/cs631/bin/makefile6-1 execute N=6
+make[1]: Entering directory '/home/courses/z1791612/631/assignment6'
+/home/cs631/bin/P6-1 prog6ftp.exe
+
+Enter port number in range: 9880...9890 (default = 9880): 
+
+ftp> ? 	bye 	cd 	cdup 	close 	disconnect 	help 	lcd 	open 	pwd 	quit 	
+ftp> lcd	changes the local directory
+ftp> LOCAL DIRECTORY NOW  /home/courses/z1791612/631/assignment6 
+ftp> not a valid command 
+ftp> not connected.
+ftp> (to) 
+ connected 
+ftp> remote directorySucessfully changed remote diretory
+ftp> /home/courses/z1791612
+ftp> Sucessfully changed remote diretory
+ftp> LOCAL DIRECTORY NOW  /home/courses/z1791612/631/assignment6
+ftp> /home/courses/z1791612/tmp.631
+ftp> Sucessfully changed remote diretory
+ftp> Sucessfully changed remote diretory
+ftp> /home/courses/z1791612/tmp.631
+ftp> 
+ Goodbye
+ftp> not connected.
+not a valid adress
+ftp> 
+ftp>  
+ connected 
+ftp> Sucessfully changed remote diretory
+ftp> Sucessfully changed remote diretory
+ftp> /
+ftp> 
+ftp> not connected
+ftp> 
+UID        PID  PPID  C STIME TTY          TIME CMD
+z1791612 18757 18756  0 00:20 pts/12   00:00:00 bash -i
+z1791612 18777 18757  0 00:20 pts/12   00:00:00 make execute-one N=6
+z1791612 18778 18777  0 00:20 pts/12   00:00:00 make -f /home/cs631/bin/makefile
+z1791612 18779 18778  0 00:20 pts/12   00:00:00 -bin/csh -c /home/cs631/bin/P6-1
+z1791612 18780 18779  0 00:20 pts/12   00:00:00 /bin/csh /home/cs631/bin/P6-1 pr
+z1791612 18788 18780  0 00:20 pts/12   00:00:00 /bin/ps -f
+make[1]: Leaving directory '/home/courses/z1791612/631/assignment6'
+]0;z1791612@tiger: ~/631/assignment6z1791612@tiger:~/631/assignment6$ exit
+
+Script done on Mon 11 Apr 2016 12:20:38 AM CDT
