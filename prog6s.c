@@ -1,13 +1,4 @@
-/*
- Filename : prog4s.c
- Description : This file contains the program for the server which takes requests from the clients and sends responses to the clients. 
-*/
-/*
-  ASSIGNMENT NUMBER: 4
-  Name              : VINNAKOTA JAGADEESH
-  ZID               : z1791612
- 
-*/
+
 #include "prog6s.h"
 #include "wrap6s.h"
 #include "inOut.h"
