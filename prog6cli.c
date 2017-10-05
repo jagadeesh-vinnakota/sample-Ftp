@@ -1,8 +1,4 @@
-/*
-NAME 				: VINNAKOTA JAGADEESH.
-ASSIGNMENT NUMBER 	: 6.
-DUE DATE			: 4/11/2016.
-*/
+
 #include "prog6cli.h"
 #include "wrap6cli.h"
 #include "inOut.h"
