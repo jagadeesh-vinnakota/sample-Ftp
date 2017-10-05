@@ -2,12 +2,7 @@
  Filename : prog6srv.c
  Description : This file contains the program for the server which takes requests from the clients and sends responses to the clients. 
 */
-/*
-  ASSIGNMENT NUMBER: 6
-  Name              : VINNAKOTA JAGADEESH
-  ZID               : z1791612
- 
-*/
+
 #include "prog6srv.h"
 #include "wrap6srv.h"
 #include "inOut.h"
